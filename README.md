@@ -1,40 +1,56 @@
 # Warw0lf Labs
 
-**Python Automation • Backend • Cybersecurity**
+**Full-Stack Development • Automation • Cybersecurity**
 
-I build practical software for automation, API integrations, developer tooling, and security-related workflows.
+I build practical web applications, backend services, automation tools, API integrations, and security-focused software.
 
-My background is in cybersecurity and penetration testing, with hands-on experience in web application security, networking, reconnaissance, and vulnerability assessment. I also build Python tools and backend solutions focused on solving real-world problems.
+My background is in cybersecurity and penetration testing, with hands-on experience in web application security, networking, reconnaissance, and vulnerability assessment. I also develop software and automation solutions focused on solving real-world problems.
 
-## What I work with
+## Tech
 
+### Frontend
+- TypeScript / JavaScript
+- React / Next.js
+- HTML / CSS
+
+### Backend & Automation
 - Python
-- REST APIs & integrations
-- Automation and scripting
+- Node.js
+- REST APIs
+- Automation & data processing
 - CLI tools
-- Backend development
+
+### Data & Infrastructure
+- PostgreSQL / SQLite
 - Git & GitHub
+- Docker
 - Linux
-- Cybersecurity & penetration testing
+- CI/CD
+
+### Security
+- Web application security
+- Penetration testing
+- Vulnerability assessment
+- Technical reconnaissance
 
 ## Featured Project
 
 ### GitHub Developer Report
 
-A Python CLI tool for analyzing public GitHub user and organization activity through the GitHub REST API.
+A Python CLI application for analyzing public GitHub user and organization activity through the GitHub REST API.
 
 **Engineering highlights:**
+- GitHub REST API integration
 - User and organization support
-- API pagination
-- Rate-limit handling
+- Pagination and rate-limit handling
 - Text and JSON output
 - Typed Python code
 - 50+ automated tests
 - Ruff & mypy validation
 - GitHub Actions CI
 
-## Current Focus
+## What I'm Building
 
-Building reliable Python automation, backend integrations, and developer tools while continuing my work in cybersecurity.
+I'm currently building full-stack applications, backend services, automation systems, API integrations, and developer tools while continuing my work in cybersecurity.
 
-Open to freelance projects involving automation, APIs, data processing, backend tooling, and security-related development.
+I'm interested in freelance projects involving web development, APIs, automation, data processing, integrations, backend tooling, and security-focused development.
