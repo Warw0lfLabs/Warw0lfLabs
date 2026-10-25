@@ -28,11 +28,11 @@ Full-stack support ticket application with AI-assisted ticket analysis and respo
 
 Built with Next.js, TypeScript, PostgreSQL, Prisma, Docker, and automated testing.
 
-### Auth Service Lab
+### [Auth Service Lab](https://github.com/Warw0lfLabs/auth-service-lab)
 
-FastAPI-based authentication service demonstrating backend API development, authentication workflows, security controls, and automated testing.
+Flask-based authentication REST API with PostgreSQL, Redis, JWT rotation, RBAC, GitHub OAuth, Docker, and automated testing.
 
-### GitHub Developer Report
+### [GitHub Developer Report](https://github.com/Warw0lfLabs/github-developer-report)
 
 Python CLI that collects public GitHub data and generates developer activity reports.
 
